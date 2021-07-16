@@ -22,7 +22,7 @@ This application now can use some functions on Discord:
 
 ## Configurations
 
-Just upload this file to any PHP server and you are ready to go. No further configurations are needed.
+Just upload this file to any PHP server (requires PHP lower than 7.4.21, because PHP 8 may cause some fatal errors) and you are ready to go. No further configurations are needed.
 
 ## How to login?
 
