@@ -30,4 +30,4 @@ Go to the `how_to_get_token.php` address on your server to read how to login to 
 
 ## Demo
 
-You can try the demo of DiscordBasic [here](https://dscbasic.herokuapp.com)
+You can try the demo of DiscordBasic [here](https://dscbasic.herokuapp.com).
