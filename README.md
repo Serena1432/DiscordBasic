@@ -27,3 +27,7 @@ Just upload this file to any PHP server and you are ready to go. No further conf
 ## How to login?
 
 Go to the `how_to_get_token.php` address on your server to read how to login to this application.
+
+## Demo
+
+You can try the demo of DiscordBasic [here](https://dscbasic.herokuapp.com)
