@@ -175,7 +175,7 @@ if (isset($_COOKIE["authorization_token"])) {
 					}
 				}
 				$message_content = implode(" ", $spaces);
-				echo '<br>' . $message_content;
+				echo '<br>' . html_entity_encode($message_content);
 				if (count($message->attachments)) {
 					foreach($message->attachments as $attachment) {
 						echo '<br><i><a href="' . $attachment->url . '">Download attachment: ' . $attachment->filename . '</a></i>';
